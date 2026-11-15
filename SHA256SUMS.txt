@@ -1,0 +1,4 @@
+dd5ffe489dea74fba9b30799b314d84aa5b27c4499d9a6eb8f913028294171b4  Magnetide-0.1.0-linux-amd64.deb
+bd8ec00a59a6053ccab6f474b9ac64adf2fbde3e56826c2d170124f0923a23ec  Magnetide-0.1.0-linux-x64.tar.gz
+00f28501bbcce5c7305ededa4c4350735bac6e65524c61fc0866b56473879c86  Magnetide-0.1.0-windows-x64.exe
+0b8fda3f921b04ab434487a6e52cb829eefe5a9ef0bf0ce8cea248f914e07371  Magnetide-android-debug.apk
